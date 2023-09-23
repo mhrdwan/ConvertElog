@@ -12,9 +12,10 @@ import Brench from "./assets/Components/Brench";
 import Media from "./assets/Components/Media";
 import OpeningHours from "./assets/Components/OpeningHour";
 import Footer from "./assets/Components/Foooter";
+import Tracking from "./Pages/Tracking/Tracking";
+import HalamanRouter from "./Router/ROuter";
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
