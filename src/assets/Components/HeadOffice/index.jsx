@@ -8,7 +8,7 @@ function Headoffices() {
         <Row >
           <Col className="d-flex justify-content-start" sm={4}>
             <div>
-              <img style={{ padding: 30 }} src={handsani}></img>
+              <img alt="pembersih tangan" style={{ padding: 30 }} src={handsani}></img>
             </div>
           </Col>
           <Col sm={6}>

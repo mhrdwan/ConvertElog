@@ -24,7 +24,7 @@ function ContactUss() {
           </Col>
           <Col sm={6}>
             <div>
-              <img style={{padding : 50 }} src={containers} width={"100%"}></img>
+              <img alt="containetgambar" style={{padding : 50 }} src={containers} width={"100%"}></img>
             </div>
           </Col>
         </Row>

@@ -8,7 +8,7 @@ function NavbarElog() {
     <Navbar fixed="top" collapseOnSelect expand="lg" className="bg-body-tertiary">
       <Container>
         <Navbar.Brand href="#home">
-          <img width={"40%"} src={logo}></img>
+          <img alt="logo" width={"40%"} src={logo}></img>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

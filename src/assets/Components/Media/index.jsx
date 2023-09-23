@@ -11,13 +11,13 @@ function Media() {
       </div>
       <Row >
         <Col sm={4}>
-          <img src={terbuka}></img>
+          <img alt="terbuka" src={terbuka}></img>
         </Col>
         <Col sm={4}>
-          <img src={buka}></img>
+          <img alt="mobil buka" src={buka}></img>
         </Col>
         <Col sm={4}>
-          <img src={liattruckbuka}></img>
+          <img alt="truck buka" src={liattruckbuka}></img>
         </Col>
       </Row>
     </div>

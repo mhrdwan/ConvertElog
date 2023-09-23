@@ -10,7 +10,7 @@ function CardOurService() {
         <Row>
           <Col sm={4}>
             <div>
-              <img src={darat} style={{ borderRadius: "10px" }} />
+              <img src={darat} alt="gambardarat" style={{ borderRadius: "10px" }} />
             </div>
             <h5 style={{ fontWeight: "bold" , marginTop :8}}>Jalur Darat</h5>
             <p>
@@ -22,7 +22,7 @@ function CardOurService() {
           </Col>
           <Col sm={4}>
             <div>
-              <img src={laut} style={{ borderRadius: "10px" }}></img>
+              <img src={laut} alt="gambar laut" style={{ borderRadius: "10px" }}></img>
             </div>
             <h5 style={{ fontWeight: "bold", marginTop :8 }}>Jalur Laut</h5>
             <p>
@@ -36,7 +36,7 @@ function CardOurService() {
           </Col>
           <Col sm={4}>
             <div>
-              <img src={udara} style={{ borderRadius: "10px" }}></img>
+              <img src={udara} alt="gambar udara" style={{ borderRadius: "10px" }}></img>
             </div>
             <h5 style={{ fontWeight: "bold" , marginTop :8}}>Jalur Udara</h5>
             <p>
